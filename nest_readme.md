@@ -54,3 +54,5 @@ topo.destroy()
 
 
 to run sudo -E python3 filename.py
+
+https://chatgpt.com/share/6811c143-97dc-800a-a188-3ad0c2c92851
